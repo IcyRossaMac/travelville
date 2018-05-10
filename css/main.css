@@ -22,3 +22,11 @@
     width: 100%;
     text-align: center;
 }
+
+/*------------------------------
+            FOLLOW
+------------------------------*/
+
+.section-follow .fa-4x {
+    margin: 5px 10px;
+}
